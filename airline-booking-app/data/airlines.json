@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Vistara",
+    "flightNumber": "A23456",
+    "source": "Delhi",
+    "destination": "Banglore"
+  },
+  {
+    "name": "Indigo",
+    "flightNumber": "I12345",
+    "source": "Banglore",
+    "destination": "Delhi"
+  },
+  {
+    "name": "Indigo",
+    "flightNumber": "I12345",
+    "source": "Banglore",
+    "destination": "Delhi"
+  },
+  {
+    "name": "Vistara",
+    "flightNumber": "V12345",
+    "source": "Delhi",
+    "destination": "Banglore"
+  },
+  {
+    "name": "Vistara",
+    "flightNumber": "V12345",
+    "source": "Delhi",
+    "destination": "Banglore"
+  },
+  {
+    "name": "Harman",
+    "flightNumber": "H1234",
+    "source": "Blr",
+    "destination": "Pune"
+  }
+]

@@ -1,0 +1,10 @@
+<%- include('partials/header') %>
+<h2>Book Ticket</h2>
+<form action="/book-ticket" method="POST">
+    <label>Source: <input type="text" name="source" required></label><br>
+    <label>Destination: <input type="text" name="destination" required></label><br>
+    <label>Date: <input type="date" name="date" required></label><br>
+    <label>Customer ID: <input type="text" name="customerId" required></label><br>
+    <button type="submit">Book Ticket</button>
+</form>
+<%- include('partials/footer') %>

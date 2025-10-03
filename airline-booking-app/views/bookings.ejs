@@ -1,0 +1,8 @@
+<%- include('partials/header') %>
+<h2>All Bookings</h2>
+<ul>
+    <% bookings.forEach(b => { %>
+        <li><strong>Customer:</strong> <%= b.customerId %> | <%= b.source %> to <%= b.destination %> on <%= b.date %></li>
+    <% }) %>
+</ul>
+<%- include('partials/footer') %>

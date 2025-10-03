@@ -1,0 +1,10 @@
+<%- include('partials/header') %>
+<h2>Add Airline</h2>
+<form action="/add-airline" method="POST">
+    <label>Airline Name: <input type="text" name="name" required></label><br>
+    <label>Flight Number: <input type="text" name="flightNumber" required></label><br>
+    <label>Source: <input type="text" name="source" required></label><br>
+    <label>Destination: <input type="text" name="destination" required></label><br>
+    <button type="submit">Add Airline</button>
+</form>
+<%- include('partials/footer') %>

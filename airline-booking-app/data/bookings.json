@@ -1,0 +1,20 @@
+[
+  {
+    "source": "Delhi",
+    "destination": "Banglore",
+    "date": "2025-07-27",
+    "customerId": "2345"
+  },
+  {
+    "source": "Delhi",
+    "destination": "Banglore",
+    "date": "2025-07-27",
+    "customerId": "2345"
+  },
+  {
+    "source": "Blr",
+    "destination": "Pune",
+    "date": "2025-07-30",
+    "customerId": "CU34"
+  }
+]
